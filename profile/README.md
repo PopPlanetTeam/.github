@@ -12,6 +12,8 @@ We are the Pop Planet team, and at the moment we're creating games in a Games le
 
 - [Ravilon Aguiar dos Santos](https://github.com/ravilon)
 
+- [Henrique Rodrigues](https://github.com/Equiel-1703)
+
 ## Projects
 
 - [Hell's Empty](https://github.com/popplanetteam/hells-empty)
